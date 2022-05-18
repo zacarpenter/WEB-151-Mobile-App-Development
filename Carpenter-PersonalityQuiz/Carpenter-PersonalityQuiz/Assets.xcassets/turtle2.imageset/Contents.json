@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Rosanne-Olson-g-turtle-56a2e2315f9b58b7d0cf8064.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
